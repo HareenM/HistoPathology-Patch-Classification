@@ -1,0 +1,2 @@
+model_name,split,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+small_cnn,test,0.9697333333333333,0.969740527639284,0.9702298224395745,0.9696703509135616,0.9699336434565682

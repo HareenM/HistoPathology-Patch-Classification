@@ -1,0 +1,22 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Image processing
+pillow
+opencv-python
+
+# Progress bars and utilities
+tqdm
+
+# Jupyter / Notebook support
+jupyter
+ipykernel
+
+# Model interpretability / Grad-CAM
+grad-cams
